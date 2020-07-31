@@ -1,6 +1,7 @@
 [/]
 animate-app-switch=false
 animate-window-launch=false
+check-update=true
 click-action='TOGGLE-SHOWPREVIEW'
 dot-color-1='#5294e2'
 dot-color-2='#5294e2'
@@ -16,6 +17,7 @@ dot-style-unfocused='METRO'
 enter-peek-mode-timeout=50
 focus-highlight=true
 focus-highlight-color='#eeeeee'
+force-check-update=false
 group-apps=true
 group-apps-label-font-color='#dddddd'
 hot-keys=true
@@ -41,6 +43,10 @@ show-status-menu-all-monitors=false
 stockgs-keep-dash=false
 taskbar-locked=true
 taskbar-position='LEFTPANEL'
+trans-panel-opacity=0.5
+trans-use-custom-gradient=false
+trans-use-custom-opacity=true
+trans-use-dynamic-opacity=true
 window-preview-aspect-ratio-x=16
 window-preview-fixed-x=true
 window-preview-hide-immediate-click=true
