@@ -13,7 +13,7 @@ Click on **Extensions** in the application search results.
 Then, set the **Dash to Panel** switch to ON.
 5. Clone this repository.
 	```
-	git clone https://github.com/ytx21cn/dash-to-panel-settings.git`
+	git clone https://github.com/ytx21cn/dash-to-panel-settings.git
 	```
 6. Right-click on the **Show Applications** button, and open **Dash to Panel Settings**.
 7. Switch to the **About** tab, and click on the **Import from file** button.
