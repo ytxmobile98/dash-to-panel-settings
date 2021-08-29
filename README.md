@@ -2,9 +2,10 @@
 
 ## Install Dash to Panel
 1. Download [dash-to-panel](https://extensions.gnome.org/extension/1160/dash-to-panel/) extension. Save the ZIP archive in a directory, e.g. `~/Downloads`.
+	* Note: use the version that matches your *GNOME Desktop version*.
 2. Install the extension.
 	```
-	gnome-extensions install ~/Downloads/dash-to-paneljderose9.github.com.v38.shell-extension.zip
+	gnome-extensions install ~/Downloads/dash-to-panel.zip
 	```
 3. Log out, and log in again to your desktop.
 4. Enable the extension.
